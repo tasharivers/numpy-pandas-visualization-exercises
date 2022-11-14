@@ -10,3 +10,13 @@ Thumbs.db
 *.csv
 *.json
 *.xlsx
+
+__pycache2__
+.ipynb_checkpoints2/
+.DS_Store2
+Thumbs.db
+.vscode/
+*.csv
+*.json
+*.xlsx
+
