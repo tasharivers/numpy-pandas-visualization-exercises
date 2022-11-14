@@ -13,7 +13,7 @@ Thumbs.db
 
 __pycache2__
 .ipynb_checkpoints2/
-.DS_Store2
+*.DS_Store
 Thumbs.db
 .vscode/
 *.csv
